@@ -1,5 +1,7 @@
 # Runner
 
+https://github.com/mrwzi/Runner/releases/tag/v1.0.0
+
 Runner is a Windows desktop app for managing multiple apps and scripts in one place.
 
 ## Features
